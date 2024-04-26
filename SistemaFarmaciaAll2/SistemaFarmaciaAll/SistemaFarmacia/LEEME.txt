@@ -1,19 +1,1 @@
-Recomendado
-=====================================================
-- IDE: NETBEANS NetBeans IDE 8.2 (Build 201610071157)
-- JDK Java: 1.8
 
-Instrucciones
-=====================================================
-1. Descargar y descomprimir.
-2. Ingresar a la carpeta "SistemaFarmaciaAll" que se descomprimió y ubicar el archivo "script.sql" que es el
-script para generar la base de datos. Luego de desplegarlo en su gestor de base de datos MySQL.
-3. En el IDE de NetBeans ir a "archivo" y hacer clic en la opción de "abrir proyecto". 
-Luego ingresar a la carpeta "SistemaFarmaciaAll", seleccionar el proyecto "SistemaFarmacia" y presionar el botón de "Abrir proyecto".
-4. Antes de ejecutar su proyecto verifique que haya modificado los parámetros de conexión a la base datos en
-la clase "VariablesFunciones.java" en el paquete de "sistemafarmacia".
-
-NOTA
-=====================================================
-Las características principales cómo título, colores, base de datos, etc. se encuentran dentro la clase "VariablesFunciones.java"
-en el paquete de "sistemafarmacia".
